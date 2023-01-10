@@ -1,0 +1,2 @@
+nome = input ('Qual seu nome?')
+print ('Olá,', nome,'! Me chamo Robonaldo, seu namorado lembrou do dia de voçês e mandou avisar que te ama muuuuito! Infelizmente ele não tem como te levar nos lugares que voçê merece, mas saiba que ele vai tentar estudar bastante pra um dia, te fazer a mulher mais feliz do mundo. Feliz 12 do 12')
